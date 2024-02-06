@@ -38,6 +38,7 @@ const MobileNavbar = ({
                 }}
                 title={e.navLink}
                 id={idx}
+                className="py-[6px]"
             />
         );
     });
@@ -87,7 +88,9 @@ const MobileNavbar = ({
             </button>
             <div className="absolute top-3 left-3">JG</div>
             {!isHidden ? (
-                <div className={`flex flex-col mt-8 p-4 text-right min-w-32`}>
+                <div
+                    className={`flex flex-col mt-4 px-4 py-10 text-right min-w-32`}
+                >
                     {navLinks}
                 </div>
             ) : null}
