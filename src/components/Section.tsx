@@ -12,6 +12,7 @@ const Section = ({ title, content, sectionRef }: SectionType) => {
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             transition={{ ease: "easeOut", duration: 1 }}
+            viewport={{ once: true }}
             ref={sectionRef}
             className=" lg:h-[80vh] border border-white/40 first:mt-20 mt-10 last:mb-10 p-5 lg:my-10 mx-5 flex flex-col lg:items-center lg:justify-center"
         >
