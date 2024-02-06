@@ -4,7 +4,7 @@ import SidePanel from "./components/SidePanel";
 import MobileNavbar from "./components/MobileNavbar";
 
 const App = () => {
-    const [isHidden, setIsHidden] = useState(false);
+    const [isHidden, setIsHidden] = useState(true);
     const [activeLink, setActiveLink] = useState(0);
     const ref1 = useRef(null);
     const ref2 = useRef(null);

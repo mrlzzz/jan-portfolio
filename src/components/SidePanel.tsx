@@ -29,7 +29,7 @@ const SidePanel = ({
 
         setTimeout(() => {
             setActiveObserver(true);
-        }, 1000);
+        }, 2000);
     };
 
     const toggleHideMenu = () => {
