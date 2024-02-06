@@ -10,9 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@formkit/auto-animate": "^0.8.1",
+    "@react-three/fiber": "^8.15.16",
+    "@types/three": "^0.161.1",
     "framer-motion": "^11.0.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "three": "^0.161.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",

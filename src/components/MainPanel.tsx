@@ -4,9 +4,10 @@ import Section from "./Section";
 
 type MainPanelType = {
     refs: React.RefObject<HTMLDivElement>[];
+    isHidden: boolean;
 };
 
-const MainPanel = ({ refs }: MainPanelType) => {
+const MainPanel = ({ refs, isHidden }: MainPanelType) => {
     const dataSections = sections.map((e, idx) => {
         return (
             <Section
@@ -19,7 +20,13 @@ const MainPanel = ({ refs }: MainPanelType) => {
     });
 
     return (
-        <div className="lg:w-4/5 h-full overflow-x-hidden">{dataSections}</div>
+        <div
+            className={`${
+                isHidden ? "w-full" : "lg:w-4/5"
+            } h-full flex flex-col justify-center overflow-x-hidden transition-all duration-300`}
+        >
+            {dataSections}
+        </div>
     );
 };
 

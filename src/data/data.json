@@ -1,22 +1,27 @@
 [
     {
         "title": "Spersonalizowana Atmosfera",
-        "content": "Oferujemy spersonalizowane playlisty dźwiękowe, które idealnie komponują się z unikalną atmosferą Twojego biznesu. Stwórz niezapomniany nastrój, który podkreśli charakter Twojej marki."
+        "content": "Oferujemy spersonalizowane playlisty dźwiękowe, które idealnie komponują się z unikalną atmosferą Twojego biznesu. Stwórz niezapomniany nastrój, który podkreśli charakter Twojej marki.",
+        "navLink": "Chapter I"
     },
     {
         "title": "Ulepszony Komfort Klienta",
-        "content": "Dzięki naszym starannie dobranym playlistom, zapewniasz klientom nie tylko produkty i usługi, ale także niepowtarzalne doświadczenia dźwiękowe. Podnieś komfort klienta, integrując muzykę z jego wizytą w Twoim miejscu."
+        "content": "Dzięki naszym starannie dobranym playlistom, zapewniasz klientom nie tylko produkty i usługi, ale także niepowtarzalne doświadczenia dźwiękowe. Podnieś komfort klienta, integrując muzykę z jego wizytą w Twoim miejscu.",
+        "navLink": "Chapter II"
     },
     {
         "title": "Konsekwencja Marki",
-        "content": "Wspólnie z nami zadbasz o konsekwencję wizerunku marki. Nasze playlisty są stworzone z myślą o idealnym dopasowaniu do Twoich wartości i przekazu marki, umacniając jednocześnie jej rozpoznawalność."
+        "content": "Wspólnie z nami zadbasz o konsekwencję wizerunku marki. Nasze playlisty są stworzone z myślą o idealnym dopasowaniu do Twoich wartości i przekazu marki, umacniając jednocześnie jej rozpoznawalność.",
+        "navLink": "Chapter III"
     },
     {
         "title": "Dostosowalność i Różnorodność",
-        "content": "Z nami nie musisz ograniczać się do jednego stylu muzycznego. Zapewniamy dostosowalność i różnorodność playlist, które odpowiadają różnym momentom dnia, sezonowym zmianom, oraz specjalnym wydarzeniom w Twoim biznesie."
+        "content": "Z nami nie musisz ograniczać się do jednego stylu muzycznego. Zapewniamy dostosowalność i różnorodność playlist, które odpowiadają różnym momentom dnia, sezonowym zmianom, oraz specjalnym wydarzeniom w Twoim biznesie.",
+        "navLink": "Chapter IV"
     },
     {
         "title": "Zgodność Prawna i Licencjonowanie",
-        "content": "Zabezpiecz swoją firmę przed problemami prawno-autorskimi. Nasza usługa gwarantuje, że wszystkie utwory w playlistach są odpowiednio licencjonowane, umożliwiając Ci skupienie się na rozwijaniu biznesu bez obaw o aspekty prawne związane z muzyką."
+        "content": "Zabezpiecz swoją firmę przed problemami prawno-autorskimi. Nasza usługa gwarantuje, że wszystkie utwory w playlistach są odpowiednio licencjonowane, umożliwiając Ci skupienie się na rozwijaniu biznesu bez obaw o aspekty prawne związane z muzyką.",
+        "navLink": "Chapter V"
     }
 ]
